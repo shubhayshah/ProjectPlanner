@@ -1,0 +1,9 @@
+1,Design game functionality,2,
+2,Draw basic images,1,1
+3,Break functionality into steps,2,1
+4,Implement basic functionality,5,2,3
+5,Test and review,2,4
+6,Draw better images,3,5
+7,Implement advanced functionality,7,5
+8,Test and review,4,6 7
+9,Release onto app store,1,8
